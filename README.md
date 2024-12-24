@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Douglas
 
-Estou em transição de carreira, mergulhando de cabeça na área da Tecnologia, uma das minhas paixões. Sou formado em Publicidade e Propaganda pela Universidade São Judas Tadeu, e em novembro, me formei no Bootcamp da TripleTen como Analista de QA (Quality Assurance). Atualmente estou me aprimorando no mundo da automatização. , como Cypress, Selenium e Playwright.
+I am currently transitioning careers, following my passion for the field of Technology. With a degree in Advertising and Marketing from São Judas Tadeu University, I recently completed the TripleTen Bootcamp, specializing as a QA (Quality Assurance) Analyst. Now, I am deepening my knowledge in test automation, fully committed to continuous learning within the QA universe.
 
 - 📚 I’m currently learning Cypress, Selenium e Playwright.
-- 💬 Ask me about metodoligas de teste.
-- 🗂️ Veja os projetos que desenvolvi em: github.com/dooouglas
-- 📌 Veja mais sobre minhas experiências em: linkedin
+- 💬 Ask me about test methods.
+- 🗂️ See the projects I developed at: [github.com/dooouglas](https://github.com/dooouglas/)
+- 📌 Learn more about my experiences at: [linkedin/douglasouzalima](https://www.linkedin.com/in/douglasouzalima/)
 - 👁️‍🗨️ How to reach me: douglasfontouraa@gmail.com
-- ⚡ Fun fact: Após 7 anos na área da saúde, sai para abraçar minha paixão pela tecnologia, e quanto mais aprendo sobre QA mais percebo que finalmente encontrei meu lugar.
-
+- ⚡ Fun fact: After seven years in the healthcare field, I decided to embrace my passion for technology, and the more I learn about QA, the more I realize I’ve finally found my place.
+  
 # 👨‍💻 Hard Skills
