@@ -5,7 +5,7 @@ I am currently transitioning careers, following my passion for the field of Tech
 - 📚 I’m currently learning Cypress, Selenium e Playwright.
 - 💬 Ask me about test methods.
 - 🗂️ See the projects I developed at: [github.com/dooouglas](https://github.com/dooouglas/)
-- 📌 Learn more about my experiences at: [linkedin/douglasouzalima](https://www.linkedin.com/in/douglasouzalima/)
+- 🛠️ Learn more about my experiences at: [linkedin/douglasouzalima](https://www.linkedin.com/in/douglasouzalima/)
 - 👁️‍🗨️ How to reach me: douglasfontouraa@gmail.com
 - ⚡ Fun fact: After seven years in the healthcare field, I decided to embrace my passion for technology, and the more I learn about QA, the more I realize I’ve finally found my place.
   
