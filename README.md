@@ -1,6 +1,8 @@
 # 👋 Bem-vindo ao meu cantinho do código!  
 
-Olá! Sou **Douglas Lima**, um profissional em transição de carreira, explorando e me especializando na área de **Quality Assurance (QA)**. Minha trajetória começou na área da saúde: sou formado como **Técnico de Enfermagem** pelo Instituto de Ensino e Pesquisa Israelita Albert Einstein e atuei por 7 anos em hospitais renomados. Durante esse período, desenvolvi habilidades essenciais em ambientes crítcos, como atenção aos detalhes, pensamento analítico e resolução de problemas—competências que agora aplico no universo de testes de software.  
+Olá! Sou **Douglas Lima**, um profissional em transição de carreira, explorando e me especializando na área de **Quality Assurance (QA)**.  
+
+Minha trajetória começou na área da saúde: sou formado como **Técnico de Enfermagem** pelo Instituto de Ensino e Pesquisa Israelita Albert Einstein e atuei por 7 anos em hospitais renomados. Durante esse período, desenvolvi habilidades essenciais em ambientes crítcos, como atenção aos detalhes, pensamento analítico e resolução de problemas—competências que agora aplico no universo de testes de software.  
 
 A busca por novos desafios me levou a concluir a graduação em **Publicidade e Propaganda** pela USJT, onde tive contato com softwares de edição e produção gráfica, utilizando ferramentas da Adobe. Mais tarde, mergulhei de vez no mundo da tecnologia e, em **dezembro de 2024**, finalizei o **Bootcamp de Analista de QA (Quality Assurance) da TripleTen**, onde aprimorei minhas habilidades em:  
 
@@ -24,10 +26,10 @@ Atualmente, estou aprofundando meus conhecimentos em **automação de testes**, 
 ### 👨‍💻 Minhas principais habilidades em QA:
 
 ✅ **Testes Manuais:** Web, Mobile e APIs  
-✅ **Ferramentas de Gestão de Testes:** Jira
+✅ **Ferramentas de Gestão de Testes:** Jira  
 ✅ **Automação de Testes:** Cypress  
 ✅ **Programação e Scripting:** JavaScript, Node.js  
-✅ **Banco de Dados:** SQL
+✅ **Banco de Dados:** SQL  
 ✅ **Ferramentas de API Testing:** Postman, Swagger  
 ✅ **Controle de Versão e CI/CD:** Git, GitHub, GitHub Actions  
 ✅ **Ambientes de Desenvolvimento:** Visual Studio Code, Cygwin Terminal, Prompt de Comando  
