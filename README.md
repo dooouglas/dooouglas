@@ -4,7 +4,7 @@ Olá! Sou **Douglas Lima**, um profissional em transição de carreira, exploran
 
 Minha trajetória começou na área da saúde: sou formado como **Técnico de Enfermagem** pelo Instituto de Ensino e Pesquisa Israelita Albert Einstein e atuei por 7 anos em hospitais renomados. Durante esse período, desenvolvi habilidades essenciais em ambientes **críticos**, como **atenção aos detalhes, pensamento analítico e resolução de problemas**—competências que agora aplico no universo de testes de software.  
 
-Em busca de novos desafios, me formei em **Publicidade e Propaganda** pela USJT, e posteriormente, mergulhei no mundo da tecnologia. Em dezembro de 2024, finalizei o **Bootcamp de Analista de QA (Quality Assurance) da TripleTen**, onde aprimorei minhas habilidades em:  
+Em busca de novos desafios, mergulhei no mundo da tecnologia e, em dezembro de 2024, finalizei o **Bootcamp de Analista de QA (Quality Assurance) da TripleTen**, onde aprimorei minhas habilidades em:  
 
 ✅ **Testes manuais** para **web, mobile e APIs**  
 ✅ **Design de testes, SDLC e STLC**  
