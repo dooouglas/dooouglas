@@ -16,6 +16,7 @@ Atualmente, estou aprofundando meus conhecimentos em **automação de testes**, 
 
 ## 🚀 Onde me encontrar?  
 
+🔗 **Portfólio Profissional:** [dooouglas.github.io](https://dooouglas.github.io/) 
 🔗 **Projetos no GitHub:** [github.com/dooouglas](https://github.com/dooouglas)  
 🔗 **Experiências e certificações no LinkedIn:** [linkedin.com/in/douglasouzalima](https://linkedin.com/in/douglasouzalima)  
 📧 **Contato:** douglasfontouraa@gmail.com  
